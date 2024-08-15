@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://dxpq4op48e6vt"]
+
+[ext_resource type="Script" path="res://GameLogic/node_DiceFactory.gd" id="1_aeyxy"]
+
+[node name="node_DiceFactory" type="Node"]
+script = ExtResource("1_aeyxy")
